@@ -12,6 +12,7 @@ public class Constructor {
 		System.out.println("Name: " + name);
 		System.out.println("Age: " + age);
         System.out.println("This is a constructor example.");
+        System.out.println("This is a constructor example.");
 	}
 
 	public static void main(String[] args) {

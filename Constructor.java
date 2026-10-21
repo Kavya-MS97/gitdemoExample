@@ -6,7 +6,7 @@ public class Constructor {
 	public Constructor(String name, int age) {
 		this.name = name;
 		this.age = age;
-        this.salary=salary
+        this.salary=salary;
 	}
 
 	public void displayDetails() {

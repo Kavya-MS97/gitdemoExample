@@ -16,5 +16,6 @@ public class Constructor {
 	public static void main(String[] args) {
 		Constructor person = new Constructor("Kavya", 20);
 		person.displayDetails();
+
 	}
 }
